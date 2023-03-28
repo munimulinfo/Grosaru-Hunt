@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: center;
+    gap:350px;
+    align-items: center;
+    height: 80px;
+    background-color: grey;
+    width: 100%;
+    
+}
+.header ul {
+    display: flex;
+    list-style: none;
+}
+.header ul li {
+    margin-left: 35px;
+    color:white;
+    font-size: 18px;
+}
+.header h1 {
+  color: gold; 
+  font-size: 30px; 
+ 
+}

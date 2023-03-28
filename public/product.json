@@ -1,0 +1,56 @@
+[
+  {
+    "id": "6421c56ed95fd4d3bad693c9",
+    "price": "123",
+    "img": "https://img.freepik.com/free-psd/magazine-cover-mockup-psd-with-nature-image_53876-116363.jpg?size=626&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=sph",
+    "name": "Burch Walker"
+  },
+  {
+    "id": "6421c56e53410cf544a4e53c",
+    "price": "32",
+    "img": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/Jatio_Rajniti__1945_Theke_1975-Oli_Ahad-b0996-291428.jpg",
+    "name": "Ortega Cabrera"
+  },
+  {
+    "id": "6421c56ef191ccdd736ce788",
+    "price": "345",
+    "img": "https://img.freepik.com/free-vector/literacy-day-background-with-shakespeare-reading-flat-design_23-2147671115.jpg?size=338&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=ais",
+    "name": "Joanna Goff"
+  },
+  {
+    "id": "6421c56ee5e90139aad19d88",
+    "price": "455",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149322351.jpg?size=338&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=ais",
+    "name": "Jo Santiago"
+  },
+  {
+    "id": "6421c56e2dd8a82406856026",
+    "price": "345",
+    "img": "https://img.freepik.com/free-vector/book-with-notebook-pencil_23-2147568909.jpg?size=338&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=ais",
+    "name": "Bauer Bates"
+  },
+  {
+    "id": "6421c56e4951ed7c902e9bad",
+    "price": "344",
+    "img": "https://img.freepik.com/free-vector/books-background-international-literacy-day_23-2147566210.jpg?size=338&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=ais",
+    "name": "Agnes Snyder"
+  },
+  {
+    "id": "6421c56e5e74333e211c7504",
+    "price": "456",
+    "img": "https://img.freepik.com/premium-vector/video-game-retro-with-control-vector-illustration-design_24911-16232.jpg?size=338&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=ais",
+    "name": "Ratliff Nixon"
+  },
+  {
+    "id": "6421c56e0c11127201147b62",
+    "price": "456",
+    "img": "https://img.freepik.com/free-vector/blue-background-with-books-literacy-day_23-2147566924.jpg?size=626&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=ais",
+    "name": "Craft Hampton"
+  },
+  {
+    "id": "6421c56e432d7b72f9630498",
+    "price": "45",
+    "img": "https://img.freepik.com/premium-vector/man-reading_24640-4853.jpg?size=338&ext=jpg&uid=R97656267&ga=GA1.2.1810366819.1679934901&semt=ais",
+    "name": "Bowers Caldwell"
+  }
+]
